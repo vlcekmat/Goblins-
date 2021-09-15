@@ -1,0 +1,96 @@
+[
+  {
+    "op": "add",
+    "path": "/items/goblin",
+    "value": [
+      [
+        0,
+        [
+          {
+            "head": [
+              {
+                "name": "redcaphead"
+              }
+            ],
+            "chest": [
+              {
+                "name": "redcapchest"
+              }
+            ],
+            "legs": [
+              {
+                "name": "redcappants"
+              }
+            ]
+          }
+        ]
+      ],
+      [
+        2,
+        [
+          {
+            "head": [
+              {
+                "name": "redcap"
+              }
+            ],
+            "chest": [
+              {
+                "name": "redcapchest"
+              }
+            ],
+            "legs": [
+              {
+                "name": "redcappants"
+              }
+            ]
+          }
+        ]
+      ],
+      [
+        3,
+        [
+          {
+            "head": [
+              {
+                "name": "redcap"
+              }
+            ],
+            "chest": [
+              {
+                "name": "redcapchest"
+              }
+            ],
+            "legs": [
+              {
+                "name": "redcappants"
+              }
+            ]
+          }
+        ]
+      ],
+      [
+        4,
+        [
+          {
+            "head": [
+              {
+                "name": "redcap"
+              }
+            ],
+            "chest": [
+              {
+                "name": "redcapchest"
+              }
+            ],
+            "legs": [
+              {
+                "name": "redcappants"
+              }
+            ]
+          }
+        ]
+      ]
+    ]
+  }
+]

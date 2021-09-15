@@ -1,0 +1,33 @@
+{
+  "metadata" : {
+    "name" : "smallgoblincave",
+    "species" : "goblin",
+    "rules" : [
+    ],
+    "anchor" : [ "smallgoblinscave" ],
+    "gravity" : 80,
+    "maxRadius" : 400,
+    "maxParts" : 100,
+    "extendSurfaceFreeSpace" : 50,
+    "protected" : false
+  },
+
+  "parts": 
+  [
+    {
+		"name": "smallgoblinscave",
+		"rules": [
+			["maxSpawnCount", [1]]
+		],
+		"def": ["tmx", "smallgoblinscave.json"]
+	},
+	
+	{
+		"name": "hallway",
+		"rules": [
+			["maxSpawnCount", [1]]
+		],
+		"def": ["tmx", "hallway.json"]
+	}
+	]
+}

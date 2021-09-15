@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/chatSounds/goblin",
+    "value": {
+      "male": [
+        "/sfx/humanoid/goblinchatter_e1.ogg",
+        "/sfx/humanoid/goblinchatter_e2.ogg",
+        "/sfx/humanoid/goblinchatter_e3.ogg"
+      ],
+      "female": [
+        "/sfx/humanoid/goblinchatter_e1.ogg",
+        "/sfx/humanoid/goblinchatter_e2.ogg",
+        "/sfx/humanoid/goblinchatter_e3.ogg"
+      ]
+    }
+  }
+]

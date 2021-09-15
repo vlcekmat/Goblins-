@@ -1,0 +1,120 @@
+[
+  {
+    "op": "add",
+    "path": "/items/goblin",
+    "value": [
+      [
+        0,
+        [
+          {
+            "head": [
+              {
+                "name": "redcap"
+              }
+            ],
+            "chest": [
+              {
+                "name": "redcapchest"
+              }
+            ],
+            "legs": [
+              {
+                "name": "redcappants"
+              }
+            ],
+            "primary": [
+              "goblinhalberd"
+            ],
+            "sheathedprimary": [
+              "goblinhalberd"
+            ]
+          }
+        ]
+      ],
+      [
+        2,
+        [
+          {
+            "head": [
+              {
+                "name": "redcap"
+              }
+            ],
+            "chest": [
+              {
+                "name": "redcapchest"
+              }
+            ],
+            "legs": [
+              {
+                "name": "redcappants"
+              }
+            ],
+            "primary": [
+              "goblinhalberd"
+            ],
+            "sheathedprimary": [
+              "goblinhalberd"
+            ]
+          }
+        ]
+      ],
+      [
+        3,
+        [
+          {
+            "head": [
+              {
+                "name": "redcaphead"
+              }
+            ],
+            "chest": [
+              {
+                "name": "redcapchest"
+              }
+            ],
+            "legs": [
+              {
+                "name": "redcappants"
+              }
+            ],
+            "primary": [
+              "goblinhalberd"
+            ],
+            "sheathedprimary": [
+              "goblinhalberd"
+            ]
+          }
+        ]
+      ],
+      [
+        4,
+        [
+          {
+            "head": [
+              {
+                "name": "redcap"
+              }
+            ],
+            "chest": [
+              {
+                "name": "redcapchest"
+              }
+            ],
+            "legs": [
+              {
+                "name": "redcappants"
+              }
+            ],
+            "primary": [
+              "goblinhalberd"
+            ],
+            "sheathedprimary": [
+              "goblinhalberd"
+            ]
+          }
+        ]
+      ]
+    ]
+  }
+]

@@ -1,71 +1,61 @@
 [
 {
 "op":"add",
-"path":"/forest/layers/surface/dungeons/0/-",
-"value":
-	{[1.0, "smallgoblincave"]}
+"path":"/planetTypes/forest/layers/surface/dungeons/-",
+"value":[1.0, "smallgoblincave"]
 },
 
 {
 "op":"add",
-"path":"/desert/layers/surface/dungeons/0/-",
-"value":
-	{[1.0, "smallgoblincave"]}
+"path":"/planetTypes/desert/layers/surface/dungeons/-",
+"value":[1.0, "smallgoblincave"]
 },
 
 {
 "op":"add",
-"path":"/savannah/layers/surface/dungeons/0/-",
-"value":
-	{[1.0, "smallgoblincave"]}
+"path":"/planetTypes/savannah/layers/surface/dungeons/-",
+"value":[1.0, "smallgoblincave"]
 },
 
 {
 "op":"add",
-"path":"/snow/layers/surface/dungeons/0/-",
-"value":
-	{[1.0, "smallgoblincave"]}
+"path":"/planetTypes/snow/layers/surface/dungeons/-",
+"value":[1.0, "smallgoblincave"]
 },
 
 {
 "op":"add",
-"path":"/jungle/layers/surface/dungeons/0/-",
-"value":
-	{[1.0, "smallgoblincave"]}
+"path":"/planetTypes/jungle/layers/surface/dungeons/-",
+"value":[1.0, "smallgoblincave"]
 },
 
 {
 "op":"add",
-"path":"/alien/layers/surface/dungeons/0/-",
-"value":
-	{[1.0, "smallgoblincave"]}
+"path":"/planetTypes/alien/layers/surface/dungeons/-",
+"value":[1.0, "smallgoblincave"]
 },
 
 {
 "op":"add",
-"path":"/tundra/layers/surface/dungeons/0/-",
-"value":
-	{[1.0, "smallgoblincave"]}
+"path":"/planetTypes/tundra/layers/surface/dungeons/-",
+"value":[1.0, "smallgoblincave"]
 },
 
 {
 "op":"add",
-"path":"/midnight/layers/surface/dungeons/0/-",
-"value":
-	{[1.0, "smallgoblincave"]}
+"path":"/planetTypes/midnight/layers/surface/dungeons/-",
+"value":[1.0, "smallgoblincave"]
 },
 
 {
 "op":"add",
-"path":"/volcanic/layers/surface/dungeons/0/-",
-"value":
-	{[1.0, "smallgoblincave"]}
+"path":"/planetTypes/volcanic/layers/surface/dungeons/-",
+"value":[1.0, "smallgoblincave"]
 },
 
 {
 "op":"add",
-"path":"/scorchedcity/layers/surface/dungeons/0/-",
-"value":
-	{[1.0, "smallgoblincave"]}
+"path":"/planetTypes/scorchedcity/layers/surface/dungeons/-",
+"value":[1.0, "smallgoblincave"]
 }
 ]

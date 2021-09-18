@@ -1,0 +1,19 @@
+{
+"goblinbasic" : 
+[
+    [0, 
+	{
+      "poolRounds" : [[0.65, 1], [0.3, 2], [0.05, 3]],
+      "pool" : 
+	  [
+        {"weight" : 0.2, "item" : ["money", 15]},
+        {"weight" : 0.2, "item" : ["money", 30]},
+        {"weight" : 0.2, "item" : ["money", 50]},
+		{"weight" : 0.1, "item" : "redcappants"},
+        {"weight" : 0.1, "item" : "redcapchest"},
+		{"weight" : 0.2, "item" : "goblinhalberd"}
+      ]
+    }
+	]
+]
+}

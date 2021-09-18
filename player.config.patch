@@ -1,15 +1,13 @@
 [
 {
 "op":"add",
-"path":"/species/0/-",
-"value":
-	{"goblin"}
+"path":"/species",
+"value":"goblin"
 },
 
 {
 "op":"add",
-"path":"/defaultCodexes/-",
-"value":
-	{"goblin" : [ "protectorate1", "protectorate2" ]}
+"path":"/defaultCodexes/goblin",
+"value":[ "protectorate1", "protectorate2" ]
 }
 ]

@@ -1,18 +1,11 @@
 { "backgroundcolor":"#000000",
  "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":55,
  "infinite":false,
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztz8ERABAMAEG689N\/N3owSEz2sf+70VsbAAAAAADwkbkputubN2+5eKv1luH1VHvGP2\/evHnzFvf2+uXWW\/RHtTcAgOoWiylouw==",
+         "data":"eJzt12EKgzAMhmE9yO6zH0IHwu5\/lFlGoZRYtU2aGL\/A+9s+Fq0ur2laEEIIIYS2wta3kvb6Wqp5rqTtkDBZc0q6tKyjTaN8mq5YcOqS2kNtB1WcXtfRmXVXWxxtg4QtjbbhqbYWXz4S63rP\/zzb9vJsO+O0aLviqhk92UpfPpbek2Fu62k2a+cbbHVbWmPPt4lVW9q7VltsFYjL1uOS8nHZuHycxlYbZW21fJh8XBYqrn07a5S0wCbng822bc\/nxUb5PNlKn6QlXWOEifJxO8pGu3KfN9PRM9ibtkfCqb12hKxF\/Qsh3CuE7toPPMu2eA==",
          "encoding":"base64",
          "height":55,
          "id":2,
@@ -26,7 +19,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJzt110KwjAQBOB6ur4UPIL3v4UICiGo2f9MwgzsS4khn7tGehwMwzAMw+ya84ZZtNGGVrTRhla00YZWtOEaK5Jx7vu7dnO1tl+1s62tjD4iuLJ6iWaL8mW5ZvuyXRH+1W0jo9aEaPtn1PRK07v+np5ha88smcP2mec3P\/rPqphNy34zjJG2V1Bsoz0stqugdxKjZJ1mHiN7N+rDoyuLv9omnbOIexTJFllaV\/sZZNc3m8a3Wt80c3kuapP6LP2TnMt7B3tcWbPpNX32jbJ5fBk1imWuZ5skLk\/\/Zjqt0d5Fq7is2dVVZZuVzHchlEjPOVp3AZn6oH73DFOdJ9dF5Qc=",
+         "data":"eJzt1cENgzAMhWE6CPNwKBKHDtD9tygURUIRTUwc+xnXkf4TEeRrKJnHYZijKIqiKIrWlrVnIfT6Wip5roR2SJisOSVdKKu2ScuHdG0tTl1Se4h2nLUNrqt2Zt3Vtg20QcKWBtrwr7YW33FIrGt57Hm2\/cqzjeK0aLviKhk92XLfcVj6TvbwWbVx\/Zx30oKtZvRgKxlbbclHedYdbZz\/PPdspr6b1mwtRq+22n2afMI2qjHNmw69xj303k1Z+fV3FuUeyYeyna3nzFeaV8uirVccW6tPw4Wy3WXfrO4d91vC8VF\/d24IW8nYw9TL1fO8s+iy5JNwWXBquBA2LZe2T9ulZUO4vnk0Xdw\/8jxDppoRvZ4oQvUBGOZyXw==",
          "encoding":"base64",
          "height":55,
          "id":1,
@@ -88,7 +81,7 @@
                         {
                          "name":"parameters",
                          "type":"string",
-                         "value":"{\"treasurePools\": [\"basicTreasure\"]}"
+                         "value":"{\"treasurePools\": [\"goblinbasic\"]}"
                         }],
                  "rotation":0,
                  "type":"",
@@ -233,19 +226,7 @@
          "draworder":"topdown",
          "id":7,
          "name":"anchors etc",
-         "objects":[
-                {
-                 "gid":339,
-                 "height":8,
-                 "id":20,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":416,
-                 "y":304
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -256,7 +237,7 @@
  "nextobjectid":22,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.7.2",
  "tileheight":8,
  "tilesets":[
         {
@@ -426,9 +407,13 @@
         {
          "firstgid":7277,
          "source":"..\/..\/..\/tilesets\/packed\/objects-by-category\/wire.json"
+        }, 
+        {
+         "firstgid":7499,
+         "source":"..\/..\/..\/..\/..\/assets\/_unpacked\/tilesets\/packed\/miscellaneous.json"
         }],
  "tilewidth":8,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":55
 }
